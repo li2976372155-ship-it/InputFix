@@ -1,0 +1,30 @@
+# Build artifacts
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.dex
+*.class
+
+# Signing — never commit
+*.keystore
+*.jks
+debug.keystore
+keystore.properties
+signing.properties
+
+# Python
+__pycache__/
+*.pyc
+
+# Local scratch
+*.log
+_adtemp/
+_toolchain/
