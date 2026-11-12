@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InputFix</string>
+    <string name="a11y_desc">用于定位屏幕上的输入框并用真实触摸点击它。不读取、不上传任何输入内容。</string>
+</resources>
